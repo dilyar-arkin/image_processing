@@ -1,4 +1,4 @@
-%% Assignment 3 COSC 340 written by Dilyar Arkin
+%% Image Rotation and Scaling example
 clear,clc;
 %% Scaling
 I = imread("LennaGray.jpg");
@@ -10,7 +10,9 @@ clear,clc
 I = imread("LennaGray.jpg");
 new_Im = imageRotate4e(I,65,"full"); % enter "full" or "crop" or " " 
 imshow(uint8(new_Im));
+
 %% Functions
+
 %% rotation function
 function new_Im = imageRotate4e(I,theta,mode)
 theta = theta*(pi/180); % convert radian to degree
