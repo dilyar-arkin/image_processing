@@ -23,11 +23,11 @@ load audio file to matlab and transfer the signal to frequency domain using fast
 ### apply_filters.m
 here we can apply a set of different filters to smooth out noisy datasets 
 #### fitting a noisy periodic data
-![image](image/q1_e.png)
+![image](images/q1_e.png)
 #### filter applied to noisy dataset
-![image](image/q1_f.png)
+![image](images/q1_f.png)
 #### smooth out noisy stock dataset
-![image](image/q1_g.png)
+![image](images/q1_g.png)
 
 
 
