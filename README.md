@@ -2,6 +2,9 @@
 Image Processing Techniques
 
 Here are some examples of image and signal processing techniques written primarily in Matlab. More examples are to be added in Python.
+### Image Rotation
+#### Scaling_Rotation.m
+![image](images/rotatedLenna.png)
 
 ## Signal Process Techniques
 description for each file:
